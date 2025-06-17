@@ -34,7 +34,7 @@ namespace Calculs
                 {
                     case "1": // addition
                         
-                        // saisie de la réponse
+                        // saisie de la réponse test
                         correct = false;
                         while (!correct)
                         {
